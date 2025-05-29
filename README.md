@@ -1,8 +1,8 @@
-# SaBank 👋
+# 🚀 SaBANK
 
-Digital Craftsman (Developer)
+**Digital Craftsman of Geographic Intelligence**
 
-I'm a versatile Geographic Information Systems (GIS) professional with a passion for software developement combining GIS, data science, and generative AI technologies. All coding projects are built from the ground up, from planning and designing to solving real-world problems with code.
+I'm a versatile Geographic Information Systems (GIS) professional with a strong passion for software development. My work blends GIS, data science, and generative AI to build innovative solutions from the ground up. I specialize in automating processes and delivering impactful tools that solve real-world problems—especially those rooted in geographic and spatial challenges. Every project I take on is thoughtfully planned, designed, and coded to make a meaningful difference.
 
 ## 🚀 About Me
 
