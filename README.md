@@ -17,36 +17,26 @@ I'm a versatile Geographic Information Systems (GIS) professional with a strong 
 
 ---
 
-## 🛠️ Skills
+### 🧰 Languages and Tools
 
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="JavaScript" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Git" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
 
-## 📊 GitHub Stats
+#
 
-![Sabank's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabank&show_icons=true&theme=radical)
+### 📊 Stats
 
-## 🌐 Socials
+![Sabank's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabank&show_icons=true&theme=gruvbox)
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://yourwebsite.com)
+#
 
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-## 📝 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sabank&theme=onedark)
 
-## 🐍 Snake Animation
-
-![snake gif](https://github.com/sabank/sabank/blob/output/github-contribution-grid-snake.svg)
+#
