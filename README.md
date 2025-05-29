@@ -12,7 +12,7 @@ I'm a versatile Geographic Information Systems (GIS) professional with a strong 
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sabank?color=%23E1AD0E&style=for-the-badge&logo=person-add&logoColor=white&label=Follow&labelColor=C79600"/>
   </a>
   <a href="https://www.linkedin.com/in/samyboumangock">
-    <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-logo-blue?style=for-the-badge&logo=si-linkedin&logoColor=white&labelColor=0A66C2"/>
+    <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-logo-blue?style=for-the-badge&logo=simpleicons-linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
 </p>
 
