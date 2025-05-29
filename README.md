@@ -5,9 +5,11 @@ Digital Craftsman of Geographic Intelligence
 I'm a versatile Geographic Information Systems (GIS) professional with a strong passion for software development. My work blends GIS, data science, and generative AI to build innovative solutions from the ground up. I specialize in automating processes and delivering impactful tools that solve real-world problems—especially those rooted in geographic and spatial challenges. Every project I take on is thoughtfully planned, designed, and coded to make a meaningful difference.
 
 <p align="left">
-<a href="https://github.com/sabank/sabank">
-  <img alt="visitors" title="GitHub Profile Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=sabank.sabank&label=Visitors&logo=eye&style=for-the-badge&color=2D2D2D&labelColor=488207" />
-</a>
+  <a href="https://github.com/sabank/sabank">
+    <img alt="visitors" title="GitHub Profile Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=sabank.sabank&label=Visitors&logo=eye&style=for-the-badge&color=2D2D2D&labelColor=488207" />
+  </a>
+  <a href="https://www.linkedin.com/in/samyboumangock">
+    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" />
   </a>
   <a href="https://github.com/sabank?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sabank?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
