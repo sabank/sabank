@@ -1,6 +1,8 @@
-# Hi there, I'm Sabank! 👋
+# SaBank 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build amazing projects. Here you'll find some of my work, skills, and ways to connect with me.
+Digital Craftsman (Developer)
+
+I'm a versatile Geographic Information Systems (GIS) professional with a passion for software developement combining GIS, data science, and generative AI technologies. All coding projects are built from the ground up, from planning and designing to solving real-world problems with code.
 
 ## 🚀 About Me
 
