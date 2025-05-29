@@ -5,9 +5,6 @@ Digital Craftsman of Geographic Intelligence
 I'm a versatile Geographic Information Systems (GIS) professional with a strong passion for software development. My work blends GIS, data science, and generative AI to build innovative solutions from the ground up. I specialize in automating processes and delivering impactful tools that solve real-world problems—especially those rooted in geographic and spatial challenges. Every project I take on is thoughtfully planned, designed, and coded to make a meaningful difference.
 
 <p align="left">
-  <a href="https://github.com/sabank?tab=repositories">
-    <img alt="Repositories" title="Total public repositories" src="https://custom-icon-badges.demolab.com/badge/repos-XX-blue?logo=repo&logoColor=white&style=for-the-badge&labelColor=2D2D2D" />
-  </a>
   <a href="https://github.com/sabank?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
