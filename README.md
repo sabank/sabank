@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Sabank! 👋
 
-<!--
-**sabank/sabank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build amazing projects. Here you'll find some of my work, skills, and ways to connect with me.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Your Project]
+- 🌱 I’m currently learning [Technology/Skill]
+- 👯 I’m looking to collaborate on [Project/Technology]
+- 🤔 I’m looking for help with [Project/Technology]
+- 💬 Ask me about [Topic/Technology]
+- 📫 How to reach me: [Your Email]
+- ⚡ Fun fact: [Something Interesting About You]
+
+## 🛠️ Skills
+
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Sabank's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabank&show_icons=true&theme=radical)
+
+## 🌐 Socials
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Personal Website](https://yourwebsite.com)
+
+## 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+## 📝 Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sabank&theme=onedark)
+
+## 🐍 Snake Animation
+
+![snake gif](https://github.com/sabank/sabank/blob/output/github-contribution-grid-snake.svg)
