@@ -6,7 +6,7 @@ I'm a versatile Geographic Information Systems (GIS) professional with a strong 
 
 <p align="left">
 <a href="https://github.com/sabank/sabank">
-  <img alt="visitors" title="GitHub Profile Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=sabank.sabank&label=Visitors&logo=eye&style=for-the-badge&color=2D2D2D&labelColor=ffffff" />
+  <img alt="visitors" title="GitHub Profile Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=sabank.sabank&label=Visitors&logo=eye&style=for-the-badge&color=2D2D2D&labelColor=488207" />
 </a>
   </a>
   <a href="https://github.com/sabank?tab=repositories&sort=stargazers">
