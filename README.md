@@ -1,4 +1,4 @@
-# 🚀 SaBANK
+## 🚀 Samy Bouma Ngock
 
 Digital Craftsman of Geographic Intelligence
 
