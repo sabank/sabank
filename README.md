@@ -1,6 +1,5 @@
 # 🚀 Samy Bouma Ngock
-
-Digital Craftsman of Geographic Intelligence
+**`Digital Craftsman of Geographic Intelligence`**
 
 I'm a versatile Geographic Information Systems (GIS) professional with a strong passion for software development. My work blends GIS, data science, and generative AI to build innovative solutions from the ground up. I specialize in automating processes and delivering impactful tools that solve real-world problems—especially those rooted in geographic and spatial challenges. Every project I take on is thoughtfully planned, designed, and coded to make a meaningful difference.
 
@@ -12,7 +11,7 @@ I'm a versatile Geographic Information Systems (GIS) professional with a strong 
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sabank?color=%23E1AD0E&style=for-the-badge&logo=person-add&logoColor=white&label=Follow&labelColor=C79600"/>
   </a>
   <a href="https://www.linkedin.com/in/samyboumangock">
-    <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/linkedin-logo-blue?style=for-the-badge&logoColor=white&labelColor=0A66C2"/>
+    <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/linkedin-logo-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
 </p>
 
