@@ -9,10 +9,10 @@ I'm a versatile Geographic Information Systems (GIS) professional with a strong 
     <img alt="repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/repos-22-D26655?style=for-the-badge&logo=repo&logoColor=white&labelColor=CE4630"/>
   </a>
   <a href="https://github.com/sabank?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sabank?color=55960c&style=for-the-badge&logo=star&labelColor=488207"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sabank?color=55960c&style=for-the-badge&logo=star&labelColor=C79600"/>
   </a>
   <a href="https://github.com/sabank?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sabank?color=%23E1AD0E&style=for-the-badge&logo=person-add&logoColor=white&label=Follow&labelColor=C79600"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sabank?color=%23E1AD0E&style=for-the-badge&logo=person-add&logoColor=white&label=Follow&labelColor=488207"/>
   </a>
   <a href="https://www.linkedin.com/in/samyboumangock">
     <img alt="linkedin" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-logo-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
