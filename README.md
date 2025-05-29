@@ -6,7 +6,7 @@ I'm a versatile Geographic Information Systems (GIS) professional with a strong 
 
 <p align="left">
   <a href="https://github.com/sabank">
-    <img alt="github profile" title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="github profile" title="GitHub" src="https://img.shields.io/badge/GitHub-181717?page_id=sabank.sabank&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/c/fknight">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
