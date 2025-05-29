@@ -8,13 +8,13 @@ I'm a versatile Geographic Information Systems (GIS) professional with a strong 
     <img alt="repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/repos-22-D26655?style=for-the-badge&logo=repo&logoColor=white&labelColor=CE4630"/>
   </a>-->
   <a href="https://www.linkedin.com/in/samyboumangock">
-   <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+   <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue"/>
   </a>
- <a href="https://github.com/sabank/portfolio">
-  <img alt="Portfolio" title="My GitHub Portfolio" src="https://custom-icon-badges.demolab.com/badge/portfolio-FF8C00?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6600"/>
+ <a href="https://sabank.github.io/portfolio/">
+  <img alt="Portfolio" title="My GitHub Portfolio" src="https://custom-icon-badges.demolab.com/badge/portfolio-228B22?style=for-the-badge&logo=github&logoColor=white&labelColor=32CD32"/>
  </a>
  <a href="https://github.com/sabank?tab=followers">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sabank?color=%23E1AD0E&style=for-the-badge&logo=person-add&logoColor=white&label=Follow&labelColor=C79600"/>
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sabank?color=C79600&style=for-the-badge&logo=person-add&logoColor=white&label=Follow&labelColor=%23E1AD0E"/>
   </a>
 </p>
 
