@@ -6,7 +6,7 @@ I'm a versatile Geographic Information Systems (GIS) professional with a strong 
 
 <p align="left">
   <a href="https://github.com/sabank?tab=repositories">
-    <img alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-Follow-black?logo=github&logoColor=white&style=for-the-badge&labelColor=181717"/>
+    <img alt="Repositories" title="Total public repositories" src="https://custom-icon-badges.demolab.com/badge/repos-XX-blue?logo=repo&logoColor=white&style=for-the-badge&labelColor=2D2D2D" />
   </a>
   <a href="https://github.com/sabank?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
