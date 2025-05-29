@@ -35,7 +35,7 @@ I'm a versatile Geographic Information Systems (GIS) professional with a strong 
 
 #
 
-## 🏆 Trophies
+### 🏆 Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sabank&theme=onedark)
 
