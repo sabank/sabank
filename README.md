@@ -1,18 +1,21 @@
-## 🚀 Samy Bouma Ngock
+# 🚀 Samy Bouma Ngock
 
 Digital Craftsman of Geographic Intelligence
 
 I'm a versatile Geographic Information Systems (GIS) professional with a strong passion for software development. My work blends GIS, data science, and generative AI to build innovative solutions from the ground up. I specialize in automating processes and delivering impactful tools that solve real-world problems—especially those rooted in geographic and spatial challenges. Every project I take on is thoughtfully planned, designed, and coded to make a meaningful difference.
 
-## 🚀 About Me
+<p align="left">
+  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+     <img alt="linkedin profile" title="LinkedIn" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/fknight">
+     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/ForrestKnight?tab=followers">
+     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
-- 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning [Technology/Skill]
-- 👯 I’m looking to collaborate on [Project/Technology]
-- 🤔 I’m looking for help with [Project/Technology]
-- 💬 Ask me about [Topic/Technology]
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Something Interesting About You]
+---
 
 ## 🛠️ Skills
 
