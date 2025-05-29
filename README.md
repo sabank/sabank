@@ -6,7 +6,7 @@ I'm a versatile Geographic Information Systems (GIS) professional with a strong 
 
 <p align="left">
   <a href="https://github.com/sabank?tab=followers">
-    <img alt="repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/repos-22-2d2d2d?logo=repo&logoColor=white&style=for-the-badge&labelColor=black" />
+    <img alt="repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/repos-22-2d2d2d?logo=repo&logoColor=white&style=for-the-badge&labelColor=CE4630" />
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sabank?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/samyboumangock">
